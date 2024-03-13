@@ -10,3 +10,5 @@ function sum(num1, num2) {
 }
 
 products = 0;
+
+console.log(products);
