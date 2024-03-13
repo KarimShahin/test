@@ -10,6 +10,7 @@ function sum(num1, num2) {
 }
 
 console.log('karim alaa');
+console.log('fatma');
 
 products = 0;
 
